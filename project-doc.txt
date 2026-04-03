@@ -1,0 +1,29 @@
+Project Documentation
+
+Architecture:
+Frontend: React (Netlify)
+Backend: Node.js + Express (Render)
+Database: MongoDB Atlas
+
+Flow:
+User → React UI → API → MongoDB
+
+Features:
+- Add Contact
+- View Contacts
+- Delete Contact
+- Update Contact
+
+Pages:
+- Home
+- About
+- Services
+- Portfolio
+- Testimonials
+- Contact
+- Data Page
+
+Deployment:
+Frontend: Netlify
+Backend: Render
+Database: MongoDB Atlas
