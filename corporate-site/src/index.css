@@ -1,0 +1,190 @@
+/* Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+nav {
+  background: #111;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: yellow;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero button {
+  padding: 10px 20px;
+  border: none;
+  background: black;
+  color: white;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.hero button:hover {
+  background: #333;
+}
+
+/* Page content */
+div {
+  padding: 30px;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #555;
+}
+
+p {
+  color: #666;
+}
+
+/* Cards */
+.card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+.hero img {
+  margin-top: 20px;
+  border-radius: 10px;
+}
+button {
+  border-radius: 5px;
+  font-weight: bold;
+}
+html {
+  scroll-behavior: smooth;
+}
+.hero img {
+  margin: 10px;
+}
+nav a {
+  margin: 0 20px;
+}
+.hero img {
+  width: 250px;
+  height: auto;
+}
+input, textarea {
+  width: 300px;
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+body {
+  font-family: Arial;
+  background: #f4f6f8;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 15px auto;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+button {
+  margin: 5px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.delete-btn {
+  background: rgb(254, 42, 5);
+  color: white;
+}
+
+.edit-btn {
+  background: blue;
+  color: white;
+}
+nav {
+  background: #0f172a;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #38bdf8;
+}
+button {
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+.light {
+  background: #f4f6f8;
+  color: rgb(11, 0, 0);
+}
+
+.dark {
+  background: #00040f;
+  color: rgb(251, 248, 248);
+}
+
+.dark .card {
+  background: #1e293b;
+  color: white;
+}
+
+.dark nav {
+  background: #020617;
+}
