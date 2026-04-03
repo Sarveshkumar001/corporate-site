@@ -1,0 +1,8 @@
+Frontend (Netlify):
+https://your-netlify-link
+
+Backend (Render):
+https://corporate-backend-4bi2.onrender.com
+
+GitHub:
+https://github.com/Sarveshkumar001/corporate-site
