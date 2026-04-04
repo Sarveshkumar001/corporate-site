@@ -1,5 +1,5 @@
 Frontend (Netlify):
-https://your-netlify-link
+https://corporate-site26.netlify.app/ 
 
 Backend (Render):
 https://corporate-backend-4bi2.onrender.com
